@@ -8,4 +8,9 @@ html {
 }
 #container > div {
     background-color: aquamarine;
+    margin-bottom: 15px;
+}
+
+#pixel {
+    width: 400px;
 }

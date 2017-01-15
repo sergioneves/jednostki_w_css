@@ -14,3 +14,7 @@ html {
 #pixel {
     width: 400px;
 }
+
+#em {
+    width: 20em;
+}
